@@ -5,7 +5,6 @@ import Main from './components/main/Main'
 
 function App() {
 
-
   return (
     <>
       <Navbar></Navbar>
@@ -13,6 +12,7 @@ function App() {
       <Footer></Footer>
     </>
   )
+
 }
 
 export default App
